@@ -10,7 +10,7 @@ Link to the source code [Click Here](https://github.com/Karan1909/Image-Classifi
 
 
 
-### Steps to Use this code:- 
+### Steps to run this code:- 
 1. Clone the repository in your local file system 
 2. Required IDE is Eclipse with Scala Nature. Scala Nature will be already added once you import the project as Maven Project 
 3. Once the project is imported, remove any build or pom errors. Mostly they won't occur 
