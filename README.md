@@ -1,5 +1,5 @@
 # Image-Classification-Spark-Scala
-Final Project Goal:- Use machine learning for foreground-background classification in high-resolution brain scans. 
+### Final Project Goal:- Use machine learning for foreground-background classification in high-resolution brain scans.
 
 I decided to choose Random Forest Classification model to train our image data. 
 Random Forest is an ensemble model where the trees are trained with bagging method. 
@@ -10,7 +10,7 @@ Link to the source code [Click Here](https://github.com/Karan1909/Image-Classifi
 
 
 
-Steps to Use this code:- 
+### Steps to Use this code:- 
 1. Clone the repository in your local file system 
 2. Required IDE is Eclipse with Scala Nature. Scala Nature will be already added once you import the project as Maven Project 
 3. Once the project is imported, remove any build or pom errors. Mostly they won't occur 
